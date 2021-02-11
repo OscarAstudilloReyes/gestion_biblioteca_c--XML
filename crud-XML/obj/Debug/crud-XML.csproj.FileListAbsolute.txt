@@ -1,0 +1,10 @@
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\bin\Debug\crud-XML.exe.config
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\bin\Debug\crud-XML.exe
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\bin\Debug\crud-XML.pdb
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\obj\Debug\crud-XML.csprojAssemblyReference.cache
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\obj\Debug\crud_XML.Properties.Resources.resources
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\obj\Debug\crud-XML.csproj.GenerateResource.cache
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\obj\Debug\crud-XML.csproj.CoreCompileInputs.cache
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\obj\Debug\crud-XML.exe
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\obj\Debug\crud-XML.pdb
+C:\Users\OSCAR\source\repos\crud-XML\crud-XML\obj\Debug\crud_XML.frmLibros.resources
